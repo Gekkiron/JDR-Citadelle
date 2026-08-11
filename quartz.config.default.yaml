@@ -6,8 +6,8 @@ configuration:
   enablePopovers: true
   analytics:
     provider: plausible
-  locale: en-US
-  baseUrl: quartz.jzhao.xyz
+  locale: fr-FR
+  baseUrl: gekkiron.github.io/JDR-Citadelle-md
   ignorePatterns:
     - private
     - templates
