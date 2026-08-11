@@ -1,0 +1,7 @@
+Une Inspection de Guilde est une action ne pouvant se faire que par un [[Les Aventuriers de La Guilde|Aventurier de La Guilde]] accrédité, qui peut proclamer l’autorité de [[La Guilde]].
+Le but d’une Inspection de Guilde est d’autoriser un [[Les Aventuriers de La Guilde|Aventurier de La Guilde]] à s’introduire dans le ***Quartier Général*** d’une [[Faction]] afin de mener une enquête, arrêter un ou plusieurs membres (voir la totalité) de la [[Faction]] en question.
+L’[[Les Aventuriers de La Guilde|Aventurier de La Guilde]] doit évidemment utiliser la force de manière proportionné et justifié, mais il n’est limité sur ses actions lors d’une Inspection de Guilde et devra les justifiés qu’à posteriori.
+
+Lors d’une Inspection de Guilde préalablement préparé, [[La Milice Protectrice]] est prévenu afin qu’elle puisse délimiter une zone de sécurité autour du ***Quartier Général*** de la [[Faction]] avant le début de l’intervention.
+
+Si l’Inspection de Guilde n’est pas justifiée ou a été jugé abusive par [[Divins#La Maîtresse de La Guilde|la Maîtresse de La Guilde]], une sanction pouvant aller jusqu’à la perte du statut d’[[Les Aventuriers de La Guilde|Aventurier de La Guilde]], voir d’une [[Révocation]] du [[Divins#Le Divin Protecteur|Divin Protecteur]] peut être appliqués (la [[Révocation]] de [[Divins#La Maîtresse de La Guilde|la Maîtresse de La Guilde]] étant réservée aux travailleurs de [[La Guilde]]).

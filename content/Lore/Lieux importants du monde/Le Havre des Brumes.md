@@ -1,0 +1,5 @@
+Le Havre des Brumes est situé au Sud-Est du [[Cercle extérieur]]. Il s’agit d’une région entouré de montagne, directement connecté aux [[Les Aiguilles du Ciel|Aiguilles du Ciel]], d’où jaillisse d’immenses cascades. Ces cascades finissent toutes dans un gigantesque bassin où plusieurs îles de plus ou moins grande envergures sont à la surface. Avec le temps, les [[Mortel]]s ont fini par relier chacune des ces îles pour des ponts.
+
+Le bassin des cascades est à la base de tous les cours d’eau parcourant le monde. Là où [[Le Désert des Oubliés]] est un terrain fertile à l’apparition des [[Faille]]s, le Havre des Brumes lui, de part la surface de terre réduite, est assez préservé.
+
+De part l’environnement sécuritaire, beaucoup de [[Races]] ont essayé de s’y installer. Cependant, le manque de ressources premières et l’environnement humides qui désagrège rapidement les construction fait que beaucoup ont fini par partir. Au final, la majorité des [[Mortel]]s y vivant sont des [[Thérianthrope]]s ayant une hybridation adapté à un environnement adapté ainsi que des [[Humain]]s qui se sont spécialisés dans la pêche.

@@ -1,0 +1,6 @@
+Cette [[Compagnie]] a été fondé par l’**Ancien Héros**, un [[Thérianthrope]] appartenant à une des [[Faction]]s principales de [[l’Expédition dorée]]. Pour une raison inconnue du grand public, il n’a pas participé à [[l’Expédition dorée]] et à donc perdu toute sa [[Faction]].
+Par respect envers ses anciens frères d’armes, il n’a jamais supprimé sa [[Bénédiction]] et ceux malgré la mort de son [[Chef de Faction]] survenu quelques années plus tard.
+
+Il décida de fonder **La compagnie des Thérianthropes** afin d’aider aux mieux ceux de sa [[Races|race]]. Étant victime de discrimination dut à leur nature et au risque que représente [[Thérianthrope#La Bestialisation|la Bestialisation]] une fois un [[Thérianthrope]] béni, beaucoup de [[Faction]]s sont réticent voir refuse d’intégrer un [[Thérianthrope]] dans leur rang.
+
+L’objectif de la [[Compagnie]] est donc de prendre en charge les [[Thérianthrope]]s pour les aider à trouver une [[Faction]], maîtriser leur [[Thérianthrope#La Bestialisation|Bestialisation]] ou tout simplement trouver un travail.

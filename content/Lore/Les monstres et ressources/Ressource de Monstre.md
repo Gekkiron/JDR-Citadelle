@@ -1,0 +1,1 @@
+Un [[Monstre]] peut, après avoir disparu, laisser derrière lui une partie de lui autre que son [[Noyau]]. Cette partie condensé en [[Mana]] est majoritairement utilisée pour créer des armes et armures.
