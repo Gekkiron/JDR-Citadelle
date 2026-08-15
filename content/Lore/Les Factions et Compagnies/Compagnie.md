@@ -3,10 +3,9 @@ Contrairement à une [[Faction]], une Compagnie n’est pas lié aux [[Divins]].
 
 Une compagnie peut être de tout genre, avoir des objectifs plus ou moins tracés. La plupart des Compagnies s’inscrivent sur un modèle d’entre-aide et de soutien.
 Parmi les plus reconnus : 
-- [[La compagnie des Thérianthropes]]
-- [[Le réseau commerçant Orichalque]]
-- [[L’entre-aide du Nord]]
+- [[La compagnie des Therianthropes|La compagnie des Thérianthropes]]
+- [[Le reseau commerçant Orichalque|Le réseau commerçant Orichalque]]
+- [[L entre aide du Nord|L’entre-aide du Nord]]
 
-
-Les seuls [[Mortel]]s n’ayant pas le droit d’intégrer une Compagnie sont [[Les Aventuriers de La Guilde]].
+Les seuls [[Mortel]]s n’ayant pas le droit d’intégrer une Compagnie sont les employés de [[La Guilde]], ce qui inclut [[Les Aventuriers de La Guilde]].
 En cas de conflit impliquant une Compagnie, c’est à la [[La Milice Protectrice]] d’intervenir.

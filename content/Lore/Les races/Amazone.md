@@ -13,7 +13,7 @@ Penthara est, pour elles, la guerrière originelle ; personne ne sait si elle a 
 
 # Leur place dans le monde
 
-En dehors de [[La Citadelle]], les Amazones sont présentes majoritairement dans la région du [[Le Désert des Oubliés|Désert des Oubliés]]. Lors de l’apparition des [[Monstre]]s, elles font parties de ceux qui ont résisté le plus longtemps sans [[Bénédiction]].
+En dehors de [[La Citadelle]], les Amazones sont présentes majoritairement dans la région du [[Le Desert des Oublies|Désert des Oubliés]]. Lors de l’apparition des [[Monstre]]s, elles font parties de ceux qui ont résisté le plus longtemps sans [[Benediction|Bénédiction]].
 
 Contrairement à la plupart des autres [[Races]], les Amazones sont souvent tolérées même au sein des [[Humain]]s les plus extrémistes sur « la pureté de la race » car ce sont les seuls qui peuvent donner naissance à des hommes [[Humain]]s en dehors des [[Humain]]s eux-mêmes.
 

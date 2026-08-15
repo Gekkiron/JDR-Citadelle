@@ -27,7 +27,7 @@ Quand une personne prend le rôle de [[Chef de Faction]], son [[Matricule]] fini
 
 # Informations grâce aux Matricules
 
-Les informations données par le Matricule couplé à celle de la [[Bénédiction]] actuelle d’un [[Mortel]] permet de déduire une base utile et infalsifiable pour des enquêtes des [[Les Aventuriers de La Guilde|Aventuriers de La Guilde]]:
+Les informations données par le Matricule couplé à celle de la [[Benediction|Bénédiction]] actuelle d’un [[Mortel]] permet de déduire une base utile et infalsifiable pour des enquêtes des [[Les Aventuriers de La Guilde|Aventuriers de La Guilde]]:
 - Est ce que le béni a déjà changé de [[Faction]] ? Si oui, pourquoi ?
 - Est ce que la [[Faction]] d’origine du béni est classifiée comme illégale ? Si oui, quand est il du béni ? 
 - Que donne son Matricule dans les Archives de [[La Guilde]] ?

@@ -1,3 +1,0 @@
-Seules les [[Faction#Factions de la Divine Pacifique|Factions Pacifiques]] ont le droit d’intégrer Le réseau commerçant Orichalque. Contre une mensualité, le réseau commerçant permet de vendre et d’acheter à des prix avantageux. Cette [[Compagnie]] est de loin la plus grande en terme de membre : elle regroupe bon nombre de [[Faction]] allant de la simple boulangerie à la plus grande forge de toute [[La Citadelle]].
-
-Le fondateur du réseau commerçant n’est nulle autre que la [[Chef de Faction]] de la [[Faction]] [[Orichalque]].

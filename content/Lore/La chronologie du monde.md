@@ -2,20 +2,20 @@
 - Avant l’apparition des [[Faille]]s : [[Les Temps Anciens]]
 - Une vingtaine d’année avant l’apparition des [[Divins]] : apparition des [[Faille]]s et des [[Monstre]]s
 - 01 janvier de l’an 0 : apparition des [[Divins]]
-- 15 août de l’an 35 : stabilisation de ce qu’on appellera le [[Cercle intérieur]]
-- 16 janvier de l’an 50 : fin de création des [[Avant-Poste]]s clés du [[Cercle intérieur]] et délimitation de la muraille de la future [[La Citadelle|Citadelle]]
-- 21 octobre de l’an 83 : stabilisation de ce qu’on appellera le [[Cercle extérieur]]
+- 15 août de l’an 35 : stabilisation de ce qu’on appellera le [[Cercle interieur|Cercle intérieur]]
+- 16 janvier de l’an 50 : fin de création des [[Avant-Poste]]s clés du [[Cercle interieur|Cercle intérieur]] et délimitation de la muraille de la future [[La Citadelle|Citadelle]]
+- 21 octobre de l’an 83 : stabilisation de ce qu’on appellera le [[Cercle exterieur|Cercle extérieur]]
 - 01 janvier de l’an 100 : inauguration de [[La Citadelle]] comme étant un havre de paix avec ses [[Faction#Factions du Divin Protecteur|Factions Protectrices]]
-- 06 décembre de l’an 160 : fin de création des [[Avant-Poste]]s clés du [[Cercle extérieur]]
+- 06 décembre de l’an 160 : fin de création des [[Avant-Poste]]s clés du [[Cercle exterieur|Cercle extérieur]]
 - 07 mai de l’an 175 : mise en place des [[Divins]] du nord et du sud ainsi que de leur [[Le cycle de la Divine Vagabonde|cycle]]
 - 01 janvier de l’an 200 : mise en place de [[La Guilde]]
 - De l’an 200 à l’an 300 : expansion de [[La Citadelle]] et des [[Avant-Poste]]s ; connu comme ***Le siècle dorée***
-- 18 mars de l’an 318 : défaite de [[l’Expédition dorée]]
+- 18 mars de l’an 318 : défaite de [[L Expedition doree|L’Expédition dorée]]
 - 05 août de l’an 318 : création de [[la Tour des Mages]]
 - 11 septembre au 13 septembre de l’an 322 : [[Le ravage de Calamity]]
-- 04 avril de l’an 324 : [[La mort du 6ème Divin]]
-- 14 juillet de l’an 324 : Fin de [[La reconquête du Cercle Extérieur du nord]] 
+- 04 avril de l’an 324 : [[La mort du 6eme Divin]]
+- 14 juillet de l’an 324 : Fin de [[La reconquete du Cercle Exterieur du nord|La reconquête du Cercle Extérieur du nord]] 
 - 26 septembre de l’an 333 : [[La corruption de la milice Protectrice]]
 - 01 janvier de l’an 334 : mise en place des [[Les Aventuriers de La Guilde|Aventuriers de La Guilde]]
 
-- 01 janvier de l’an 338 : L’année du Renouveau car fin d’une [[Cérémonie du Grand Renouveau]] et célébration de l'apparition des [[Divins]]. Cette année marque le début de vos aventures !
+- 01 janvier de l’an 338 : L’année du Renouveau car fin d’une [[Ceremonie du Grand Renouveau|Cérémonie du Grand Renouveau]] et célébration de l'apparition des [[Divins]]. Cette année marque le début de vos aventures !

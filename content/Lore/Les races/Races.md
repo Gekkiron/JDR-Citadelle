@@ -1,6 +1,6 @@
 Il existes 6 races dans ce monde : 
 - [[Humain]]
-- [[Thérianthrope]]
+- [[Therianthrope|Thérianthrope]]
 - [[Amazone]]
 - [[Elfe]]
 - [[Nain des Plaines]]
@@ -24,7 +24,7 @@ La seule exception est que si un [[Humain]] se reproduit avec une [[Amazone]], l
 
 ## L’hybridation des Thérianthropes
 
-Quand deux [[Thérianthrope]]s se reproduisent, l’enfant issue de cette union peut entrer dans trois cas de figures :
+Quand deux [[Therianthrope|Thérianthropes]] se reproduisent, l’enfant issue de cette union peut entrer dans un de ces trois cas de figures :
 - Il récupère l’hybridation de son père
 - Il récupère l’hybridation de sa mère
-- Une nouvelle hybridation voit le jour dépendant du croisement et du hasard (évènement rare)
+- Une nouvelle hybridation voit le jour dépendant du croisement et du hasard (évènement très rare)

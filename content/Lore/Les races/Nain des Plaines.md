@@ -2,11 +2,11 @@ Pour en savoir plus sur l’origine et les traditions des Nains des Plaines : [[
 
 Les Nains des Plaines sont à la fois petits et sveltes. S’ils exagèrent leurs voix, certaines personnes peu attentives pourraient les prendre pour des enfants.
 
-Ils sont reconnus à travers le monde pour leur excellent sens des affaires ainsi que leur vie de nomade. La plupart des convois des Nains des Plaines appartiennent en général à des [[Faction]]s de la [[Divins#La Divine Vagabonde (anciennement Divine du Sud)|Divine Vagabonde]]. Ils bougent de région en région et s’ils ont besoin de l’intervention de la [[Divins#La Divine Vagabonde (anciennement Divine du Sud)|Divine Vagabonde]] pour une gestion de leur [[Faction]], ils rejoignent cette dernière à [[La Citadelle]] lors de la fin d’un de ses [[Le cycle de la Divine Vagabonde|cycles]] à l’occasion d’une [[Cérémonie du Grand Renouveau]].
+Ils sont reconnus à travers le monde pour leur excellent sens des affaires ainsi que leur vie de nomade. La plupart des convois des Nains des Plaines appartiennent en général à des [[Faction]]s de la [[Divins#La Divine Vagabonde (anciennement Divine du Sud)|Divine Vagabonde]]. Ils bougent de région en région et s’ils ont besoin de l’intervention de la [[Divins#La Divine Vagabonde (anciennement Divine du Sud)|Divine Vagabonde]] pour une gestion de leur [[Faction]], ils rejoignent cette dernière à [[La Citadelle]] lors de la fin d’un de ses [[Le cycle de la Divine Vagabonde|cycles]] à l’occasion d’une [[Ceremonie du Grand Renouveau|Cérémonie du Grand Renouveau]].
 
 # Leur place dans le monde
 
-Les convois parcours le monde de région en région pour commercer avec toutes les [[Races]]. Quand ils doivent se poser à un endroit, ils le font à [[La Plaine de l’Horizon]].
+Les convois parcours le monde de région en région pour commercer avec toutes les [[Races]]. Quand ils doivent se poser à un endroit, ils le font à [[La Plaine de l Horizon|La Plaine de l’Horizon]].
 
 Évidemment, tous les Nains des Plaines ne sont pas commerçant. Mais même parmi les aventuriers, certaines traditions persistent.
 
@@ -17,4 +17,4 @@ Un Nain des Plaines est naturellement doué pour développer sa Force et son Agi
 # L’instinct des Plaines
 ***Avantage de race***
 
-Cette capacité est une [[Compétence]] que seuls les Nains des Plaines peuvent avoir. Si l’utilisateur à un contact physique ou se regarde droit dans les yeux avec sa cible, le nain est capable de ressentir quand la cible ment ou cache une information.
+Cette capacité est une [[Competence|Compétence]] que seuls les Nains des Plaines peuvent avoir. Si l’utilisateur à un contact physique ou se regarde droit dans les yeux avec sa cible, le nain est capable de ressentir quand la cible ment ou cache une information.

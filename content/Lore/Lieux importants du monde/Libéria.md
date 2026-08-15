@@ -1,4 +1,0 @@
-Libéria est le nom que l’on donne au plus grand [[Avant-Poste]] présent dans le monde, que ce soit en terme de superficie que de densité de population.
-Situé dans le [[Cercle extérieur]], en plein milieu de [[Le Désert des Oubliés|Désert des Oubliés]], Libéria est l’[[Avant-Poste]] réunissant le plus de [[Faction]]s, créant ainsi tout est une économie et des mœurs qui leur son propre.
-
-**Libéria** voue un culte et une dévotion absolue à la [[Divins#La Divine Vagabonde (anciennement Divine du Sud)|Divine Vagabonde]]. Son arrivé dans l’[[Avant-Poste]], une fois par an depuis [[La mort du 6ème Divin]], est signe d’une grande fête durant plusieurs jours d’affilé.
