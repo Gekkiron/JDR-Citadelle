@@ -104,7 +104,7 @@ plugins:
     enabled: false
     options:
       theme: catppuccin-mocha
-      mode: both
+      mode: dark
   - source: "@quartz-community/remove-draft"
     enabled: true
   - source: "@quartz-community/explicit-publish"
