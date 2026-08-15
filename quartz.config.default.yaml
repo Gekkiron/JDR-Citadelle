@@ -1,13 +1,13 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: Les chroniques de la Citadelle
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics:
     provider: plausible
   locale: fr-FR
-  baseUrl: gekkiron.github.io/JDR-Citadelle-md
+  baseUrl: gekkiron.github.io/JDR-Citadelle
   ignorePatterns:
     - private
     - templates
