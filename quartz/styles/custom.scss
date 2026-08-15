@@ -1,3 +1,15 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+/* Correction du décalage de la flèche Explorer pour le thème quest-journal */
+button#explorer {
+  display: flex !important;
+  align-items: center !important;
+  gap: 6px !important;
+}
+
+button#explorer svg {
+  position: static !important;
+  transform: none !important;
+  margin: 0 !important;
+}
