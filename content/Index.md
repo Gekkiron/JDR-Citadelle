@@ -16,3 +16,6 @@ Ainsi que les mécaniques lié au JDR :
 - [[Utiliser une competence ou un sort|Utiliser une compétence ou un sort]]
 - [[Se reposer]]
 
+# Carte du monde
+
+![[World Map.png]]
