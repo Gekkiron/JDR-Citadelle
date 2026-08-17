@@ -11,6 +11,7 @@ Après [[La discorde des Nains]] :
 - Le Royaume des [[Nain des Plaines]] -> [[La Plaine de l Horizon|La Plaine de l’Horizon]]
 - Le Royaume des [[Nain des Montagnes]] -> [[Les Aiguilles du Ciel]]
 
+![[Old World Map.png]]
 
 Quand les [[Faille]]s et les [[Monstre]]s firent leurs apparitions, les Royaumes essayèrent de gérer individuellement les différentes menaces. Cependant, avec le temps, des [[Monstre]]s de plus en plus puissants et de plus en plus nombreux ont fini par ravager intégralement tous les Royaumes.
 Le Royaume des [[Amazone]]s est de loin celui qui a tenu le plus longtemps, si bien qu’encore aujourd’hui, il est celui qui a le plus de vestige des Temps Anciens.
