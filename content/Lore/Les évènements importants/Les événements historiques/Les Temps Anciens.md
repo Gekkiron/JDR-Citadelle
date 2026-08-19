@@ -4,7 +4,7 @@ Les Royaumes des Temps Anciens sont plus ou moins les Régions modernes :
 - Le Royaume des [[Humain]]s -> le [[Cercle interieur|Cercle intérieur]]
 - Le Royaume des [[Elfe]]s -> [[La Foret des Murmures|La Forêt des Murmures]]
 - Le Royaume des [[Amazone]]s -> [[Le Desert des Oublies|Le Désert des Oubliés]]
-- Le Territoire des [[Therianthrope|Thérianthropes]] -> [[Le Havre des Brumes]] même s’ils ont tendance à vivre dans des environnements adaptés à leur hybridation
+- Le Territoire des [[Therianthrope|Thérianthropes]] -> [[Le Havre des Brumes]] même s’ils ont tendance à vivre dans des environnements adaptés à leur hybridation. Le nom est différent, mais il est tout de même considéré comme un Royaume.
  
  Avant [[La discorde des Nains]] :
 - Le Royaume des Nains -> [[La Plaine de l Horizon|La Plaine de l’Horizon]] + [[Les Aiguilles du Ciel]]
@@ -17,7 +17,7 @@ Après [[La discorde des Nains]] :
 
 Quand les [[Faille]]s et les [[Monstre]]s firent leurs apparitions, les Royaumes essayèrent de gérer individuellement les différentes menaces. Cependant, avec le temps, des [[Monstre]]s de plus en plus puissants et de plus en plus nombreux ont fini par ravager intégralement tous les Royaumes.
 Le Royaume des [[Amazone]]s est de loin celui qui a tenu le plus longtemps, si bien qu’encore aujourd’hui, il est celui qui a le plus de vestige des Temps Anciens.
-Le Royaume des [[Therianthrope|Thérianthropes]] malgré son environnement qui favoriser la non-apparition des [[Faille]]s, le nombre des [[Therianthrope|Thérianthropes]] étant le plus faible, n’a pas réussi à tenir bon.
+Le Territoire des [[Therianthrope|Thérianthropes]], malgré son environnement qui favorisait la non-apparition des [[Faille]]s, n’a pas réussi à tenir bon en vu du nombre restreint de [[Therianthrope|Thérianthrope]] présent.
 
 Au fur et à mesure que les Royaumes partaient en fumé, les [[Mortel]]s convergèrent vers le [[Cercle interieur|Cercle intérieur]] pour trouver d’autres survivants. 
 Au bout d’une vingtaine d’année, alors que les [[Mortel]]s avaient perdu tout espoir, les [[Divins]] renversèrent la situation et instaura une nouvelle ère.
