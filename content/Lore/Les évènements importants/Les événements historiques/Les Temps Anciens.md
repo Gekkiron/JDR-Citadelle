@@ -4,7 +4,7 @@ Les Royaumes des Temps Anciens sont plus ou moins les Régions modernes :
 - Le Royaume des [[Humain]]s -> le [[Cercle interieur|Cercle intérieur]]
 - Le Royaume des [[Elfe]]s -> [[La Foret des Murmures|La Forêt des Murmures]]
 - Le Royaume des [[Amazone]]s -> [[Le Desert des Oublies|Le Désert des Oubliés]]
-- Le Royaume des [[Therianthrope|Thérianthropes]] -> [[Le Havre des Brumes]] même s’ils ont tendance à vivre dans des environnements adaptés à leur hybridation
+- Le Territoire des [[Therianthrope|Thérianthropes]] -> [[Le Havre des Brumes]] même s’ils ont tendance à vivre dans des environnements adaptés à leur hybridation
 Avant [[La discorde des Nains]] :
 - Le Royaume des Nains -> [[La Plaine de l Horizon|La Plaine de l’Horizon]] + [[Les Aiguilles du Ciel]]
 Après [[La discorde des Nains]] :
