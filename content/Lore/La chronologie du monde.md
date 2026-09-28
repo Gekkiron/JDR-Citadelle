@@ -10,7 +10,7 @@
 - 07 mai de l’an 175 : mise en place des [[Divins]] du nord et du sud ainsi que de leur [[Le cycle de la Divine Vagabonde|cycle]]
 - 01 janvier de l’an 200 : mise en place de [[La Guilde]]
 - De l’an 200 à l’an 300 : expansion de [[La Citadelle]] et des [[Avant-Poste]]s ; connu comme ***Le siècle dorée***
-- 18 mars de l’an 318 : défaite de [[L Expedition doree|L’Expédition dorée]]
+- 31 mars de l’an 318 : défaite de [[L Expedition doree|L’Expédition dorée]]
 - 05 août de l’an 318 : création de [[la Tour des Mages]]
 - 11 septembre au 13 septembre de l’an 322 : [[Le ravage de Calamity]]
 - 04 avril de l’an 324 : [[La mort du 6eme Divin]]

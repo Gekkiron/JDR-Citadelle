@@ -16,12 +16,12 @@ C’est ainsi qu’en mars de cette même année, les plus puissants bénis du g
 # La défaite de l’Expédition dorée
 
 Le 1 mars de l’an 318 sonna le début de l’[[Expedition|Expédition]]. Grâce aux [[Orbe]]s de communication de [[La Breche|La Brèche]], il était facile pour tous les [[Mortel]]s à travers le monde de suivre leurs progressions en directe.
-Au bout d’une semaine, soit le 8 mars de l’an 318, l’[[Expedition|Expédition]] avait atteint le niveau neutre -50 de [[La Breche|La Brèche]]. Là où jusqu’à maintenant leur trajet était direct vers les profondeurs, l’objectif changea : explorer de fond en comble chaque niveau pour trouver l’accès du niveau suivant.
+Au bout de 3 semaines, soit le 22 mars de l’an 318, l’[[Expedition|Expédition]] avait atteint le niveau neutre -50 de [[La Breche|La Brèche]]. Là où jusqu’à maintenant leur trajet était direct vers les profondeurs, l’objectif changea : explorer de fond en comble chaque niveau pour trouver l’accès du niveau suivant.
 
 La Faction d’Hélios avait déjà réussi à atteindre seule l’accès niveau -53, c’est a ce niveau que commença l’exploration. Les premiers rapports reçu à [[La Guilde]] indiquaient une progression rapide en vu du grand nombre de béni de l’[[Expedition|Expédition]].
 
 Tout semblait aller pour le mieux, puis le lendemain du rapport indiquant que l’accès au niveau -55 a été découvert, toutes les [[Orbe#Orbe d’état|Orbes d’état]] qui liaient un béni de L’[[Expedition|Expédition]] à quelqu’un de la surface se brisèrent.
-Ce jour là, le 18 mars de l’an 318, entre les [[Orbe#Orbe d’état|Orbes d’état]] et le fait que tous les [[Chef de Faction]] ont déclaré ne plus ressentir leur [[Benediction|Bénédiction]] de leur membre participant, l’[[Expedition|Expédition]] fut déclarée exterminée.
+Ce jour là, le 31 mars de l’an 318, entre les [[Orbe#Orbe d’état|Orbes d’état]] et le fait que tous les [[Chef de Faction]] ont déclaré ne plus ressentir leur [[Benediction|Bénédiction]] de leur membre participant, l’[[Expedition|Expédition]] fut déclarée exterminée.
 
 # Les conséquences de la défaite
 
