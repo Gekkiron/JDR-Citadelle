@@ -39,10 +39,14 @@ Que ce soit pour attaquer ou se défendre, dans le cas où un lancer de dé est 
 
 Un tour est composé de deux phases : phase des joueurs | phase des ennemis
 
-Un joueur peut par tour faire :
-un déplacement + actions rapides (compétences + sorts rapides) + une action.
+Un joueur peut faire **par tour** :
+- un déplacement
+- des actions rapides (compétences et sorts rapides)
+- une action :
+	- Une attaque (force ou dextérité)
+	- Un sort
+	- Un déplacement supplémentaire
 
-Action = une offensive | un sort | un déplacement supplémentaire. 
 Pour en savoir plus sur le déplacement : [[Se deplacer en combat|Se déplacer en combat]]. 
 Pour en savoir sur les compétences et sort : [[Utiliser une competence ou un sort#En combat|Utiliser une compétence ou un sort en combat]]. 
 

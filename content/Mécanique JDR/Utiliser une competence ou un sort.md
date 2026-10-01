@@ -16,10 +16,13 @@ Pour récupérer du [[Mana]], le PJ doit [[Se reposer]].
 
 ## Pendant son tour
 
-Un joueur par tour peut faire :
-un déplacement + actions rapides (compétences + sorts rapides) + action
-
-Action = une offensive | un sort | un déplacement supplémentaire 
+Un joueur peut faire **par tour** :
+- un déplacement
+- des actions rapides (compétences et sorts rapides)
+- une action :
+	- Une attaque (force ou dextérité)
+	- Un sort
+	- Un déplacement supplémentaire
 
 Un sort  « 1 action » consomme l’action du tour.
 
