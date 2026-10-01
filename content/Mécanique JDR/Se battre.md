@@ -42,7 +42,7 @@ Un tour est composé de deux phases : phase des joueurs | phase des ennemis
 Un joueur peut par tour faire :
 un déplacement + actions rapides (compétences + sorts rapides) + une action.
 
-Action = une offensive | un sort tour 1 ou plus | un déplacement supplémentaire. 
+Action = une offensive | un sort | un déplacement supplémentaire. 
 Pour en savoir plus sur le déplacement : [[Se deplacer en combat|Se déplacer en combat]]. 
 Pour en savoir sur les compétences et sort : [[Utiliser une competence ou un sort#En combat|Utiliser une compétence ou un sort en combat]]. 
 

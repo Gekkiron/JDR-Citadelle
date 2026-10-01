@@ -37,9 +37,9 @@ Il y a 2 facteurs à prendre en compte :
 Sauf compétence ou sort disant le contraire, l’état de santé (physique et mental) peut faire varier significativement le total des points : (estimé par le MJ)
 - En pleine forme -> -0
 - Un peu fatigué / Légèrement blessé / Quantité de Mana passant à 50% ou moins -> -1
-- Fatigué / Ralenti par une blessure / Quantité de Mana passant à 30% ou moins -> -2
-- Handicapé par une blessure / Quantité de Mana passant à 10% ou moins -> -3
-- Exténué / Grièvement blessé / Quantité de Mana passant à 5% ou moins -> -4
+- Fatigué / Ralenti par une blessure / Quantité de Mana passant à 25% ou moins -> -2
+- Exténué / Handicapé par une blessure / Quantité de Mana passant à 10% ou moins -> -3
+- Grièvement blessé -> -4
 - Aux portes de la mort-> -5
 
 ### Le passif naturel
@@ -91,7 +91,7 @@ La [[Benediction|Bénédiction]] permet de développer une multitude de capacit�
 
 On va rester sur notre exemple du béni de rang 2 qui est à 27 point avec sa masse qui veut détruite l’obstacle au lieu de le soulever et de l’autre béni de rang 2 qui est à 2 points qui ne peut pas le déplacer.
 
-Lors de son [[Rank Up]], celui à 27 points à obtenu une [[Competence|Compétence]] active lui accordant un bonus de 3 points quand il vise une cible ; De se fait, il passe à 30 points. Maintenant, deux alliés lui en lancer le même sort qui consiste à augmenter sa force de 10 points pour le tour, ce qui veut dire que le béni passe de 30 points à 50 points.
+Lors de son [[Rank Up]], celui à 27 points à obtenu une [[Competence|Compétence]] active lui accordant un ajout de 3 points quand il vise une cible ; De se fait, il passe à 30 points. Maintenant, deux alliés lui en lancer le même sort qui consiste à augmenter sa force de 10 points pour le tour, ce qui veut dire que le béni passe de 30 points à 50 points.
 
 De son côté, le béni de rang 2 ayant 2 points doit toujours déplacer le rocher. Ce béni possède un sort de lévitation dont le principe est de pouvoir déplacer un objet en utilisant sa caractéristique d’efficacité magique au lieu de sa force et là, ça change tout : 
 - -3 (état de santé) + 0 (passif naturel) + 8 (stat passive : 5 pour S rang 1 + 3 bonus rank up) + 5 (stat d’efficacité magique actuelle) = 10. Ajouté à ça un équipement lui donnant +6 d’efficacité magique -> 16 points. Enfin, il possède une compétence lui accordant un bonus sur ses caractéristiques s’il manie un [[Noyau]] comme catalyseur (le bonus dépend du [[Noyau]]) qui lui donne +5 -> 21 points.
@@ -99,7 +99,7 @@ Pour une même action, ce béni est donc passé de 2 à 21 points grâce à son 
 
 ## Les circonstances de l’action
 
-Enfin, il y a un autre facteur : les circonstances. Suivant l’action, si la justification de l’action est RP + justifié, un bonus pourra être accordé aux PJs par le MJ.
+Enfin, il y a un autre facteur : les circonstances. Suivant l’action, si la justification de l’action est RP + justifié, un avantage pourra être accordé aux PJs par le MJ.
 Par contre, c’est valable dans les deux sens, un action réaliser dans des circonstances particulières peuvent entraîner des circonstances non prévu.
 
 Quelques exemples pour mieux comprendre : 
@@ -111,8 +111,8 @@ Le béni ayant 21 points pour soulever l’obstacle avec son sort casse son [[No
 Si un allié décide d’aider notre béni en soulevant l’obstacle pendant que ce dernier utilise son [[Sort]] de lévitation, alors la collaboration des deux est une option qui peut être viable. Le MJ estime la valeur que doit atteindre la somme totale (car la coordination des deux alliés augmentent la difficulté) et si ce score est atteint, l’obstacle pourra être soulever.
 -> être RP, ingénieux et/ou original sera quasiment toujours récompensé.
 
-Dans la même logique, si une action joue sur deux caractéristiques, un bonus pourra être accordé par le MJ
-Exemple : Si le béni à la masse prend beaucoup d’élan avant de foncer à pleine vitesse pour donner son coup, le MJ pourra lui accorder un bonus suivant sa caractéristique d’agilité.
+Dans la même logique, si une action joue sur deux caractéristiques, un avantage pourra être accordé par le MJ
+Exemple : Si le béni à la masse prend beaucoup d’élan avant de foncer à pleine vitesse pour donner son coup, le MJ pourra lui accorder un avantage suivant sa caractéristique d’agilité.
 
 # Récapitulatif 
 
