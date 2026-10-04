@@ -16,10 +16,10 @@ Le type d’attaque est soit basé sur la **force**, sur la **dextérité** ou s
 On calcule les points de **A** et de **B** et là plusieurs situations :  (pour voir quelle stat est prise en compte, voir [[Se battre#Se défendre|Se défendre]])
 - Les points de **A** sont biens supérieurs aux points de **B** -> l’attaque de **A** est critique
 - Les points de **A** sont dans le même ordre de grandeur que les points de **B** -> **A** lance un dé 20 (si point de vue de **B**, inverser les résultats) : 
-	- Si le résultat est entre 1 et 5 -> La défense de **B** est critique
-	- Si le résultat est entre 6 et 10 -> La défense de **B** réussi
-	- Si le résultat est entre 11 et 15 -> L’attaque de **A** réussi
-	- Si le résultat est entre 16 et 20 -> L‘attaque de **A** est critique 
+	- Si le résultat est entre 1 et 3 -> La défense de **B** est critique
+	- Si le résultat est entre 4 et 10 -> La défense de **B** réussi
+	- Si le résultat est entre 11 et 17 -> L’attaque de **A** réussi
+	- Si le résultat est entre 18 et 20 -> L‘attaque de **A** est critique 
 - Les points de **A** sont bien inférieur aux points de **B** -> La Défense de **B** est critique. **A** peut tenter une action miraculeuse. Il lance un dé 20 :
 	- Si le résultat est entre 18 et 20 -> L’attaque de **A** réussi par miracle
 	- Sinon -> **A** subit l’équivalent d’un double échec critique
@@ -70,7 +70,7 @@ Plusieurs options sont disponibles pour se défendre :
 ### Action de soutien
 
 Si vous êtes à 1 case d’un allié attaqué, vous pouvez vous interposer pour prendre l’offensive en lançant un dé 20 :
-- Si le résultat est entre 1 et 5 -> La défense échoue, vous **subissez une attaque réussi** et l’allié entre dans la phase **Se défendre** 
--  Si le résultat est entre 6 et 10 -> La défense échoue, l’allié entre dans la phase **Se défendre**
+- Si le résultat est entre 1 et 3 -> La défense échoue, vous **subissez une attaque réussi** et l’allié entre dans la phase **Se défendre** 
+-  Si le résultat est entre 4 et 10 -> La défense échoue, l’allié entre dans la phase **Se défendre**
 - Si le résultat est entre 11 et 17 -> La défense réussi, vous échangez votre place avec l’allié -> vous entrez dans la phase ***Se défendre***.
 - Si le résultat est entre 18 et 20 -> Vous réussissez à empêcher l’offensive ou à décaler l’allié attaqué.

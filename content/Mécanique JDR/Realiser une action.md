@@ -20,10 +20,10 @@ Il y a plusieurs facteurs à prendre en compte. Pour que ce soit plus facile à 
 Pour se faire, le PJ cumule un nombre de point qui se base sur plusieurs facteurs et : 
 - si les points sont biens supérieurs à la valeur à atteindre -> Le PJ réalise l’action
 - Si les points sont dans le même ordre de grandeur que la valeur à atteindre -> Le joueur fait un lancer de dé 20 : 
-	- Si le résultat est entre 1 et 5 -> Le PJ se blesse / malus
-	- Si le résultat est entre 6 et 10 -> Le PJ échoue
-	- Si le résultat est entre 11 et 15 -> Le PJ réussi
-	- Si le résultat est entre 16 et 20 -> Le PJ réussi grandement
+	- Si le résultat est entre 1 et 3 -> Le PJ fait un échec critique 
+	- Si le résultat est entre 4 et 10 -> Le PJ échoue
+	- Si le résultat est entre 11 et 17 -> Le PJ réussi
+	- Si le résultat est entre 18 et 20 -> Le PJ fait une réussite critique
 - Si les points sont biens inférieurs à la valeur à atteindre -> Le PJ se blesse. Le PJ peut tenter une action miraculeuse. Il lance un dé 20 : 
 	- Si le résultat est entre 18 et 20 -> Le PJ réussi par miracle sans se blesser
 	- Sinon -> Le PJ se blesse grandement
