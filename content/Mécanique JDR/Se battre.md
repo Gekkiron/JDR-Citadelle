@@ -29,6 +29,8 @@ Dans le cas où les points de **A** et de **B** sont dans le même ordre de gran
 
 Comme vous pouvez le constater, l’appréciation de la situation par le MJ peut être déterminant.
 
+**ATTENTION** : un lancé de dé 20 sur une action utilisant une caractéristique est dépendant de [[L etat de sante|L’état de santé]].
+
 ## Avantage / Désavantage
 
 Que ce soit pour attaquer ou se défendre, dans le cas où un lancer de dé est nécessaire pour savoir si une action réussi ou échoue, à la demande de MJ, le PJ lance deux dés :
